@@ -1,0 +1,3 @@
+/home/cl/Desktop/orb-slam2_with_semantic_labelling/Thirdparty/g2o/build/CMakeFiles/edit_cache.dir
+/home/cl/Desktop/orb-slam2_with_semantic_labelling/Thirdparty/g2o/build/CMakeFiles/rebuild_cache.dir
+/home/cl/Desktop/orb-slam2_with_semantic_labelling/Thirdparty/g2o/build/CMakeFiles/g2o.dir
